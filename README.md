@@ -2,7 +2,7 @@
 
 An end-to-end interactive business intelligence dashboard built on the **Brazilian E-Commerce Public Dataset** by Olist. Built with Python, Streamlit and Plotly.
 
-🔗 **[Live Demo](your-streamlit-url-here)** · 📦 **[Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**
+🔗 **[Live Demo]([your-streamlit-url-here](https://olist-e-commerce-dashboard-sutwe6djkp3iu9lz74dxxl.streamlit.app/))** · 📦 **[Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**
 
 ---
 
