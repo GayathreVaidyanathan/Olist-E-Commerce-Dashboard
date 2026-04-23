@@ -6,8 +6,8 @@ DATASET   = "olistbr/brazilian-ecommerce"
 DATA_PATH = "data/"
 
 def _download_if_needed():
-    os.environ["KAGGLE_USERNAME"] = "gayathrevaidya"  # your kaggle username
-    os.environ["KAGGLE_KEY"]      = "f0f73ded60413c219a3260dba044ea3b"  # the "key" value from kaggle.json
+    os.environ["KAGGLE_USERNAME"] = "YOUR_KAGGLE_USERNAME"  # your kaggle username
+    os.environ["KAGGLE_KEY"]      = "YOUR_KAGGLE_KEY"  # the "key" value from kaggle.json
     
     if not os.path.exists(DATA_PATH):
         os.makedirs(DATA_PATH, exist_ok=True)
